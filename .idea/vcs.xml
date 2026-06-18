@@ -2,6 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section-01-spring-boot-quick-start/03-actuator-demo" vcs="Git" />
   </component>
 </project>
