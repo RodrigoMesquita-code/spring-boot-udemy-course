@@ -15,5 +15,8 @@
     <file url="file://$PROJECT_DIR$/section-02-spring-core/08-bean-lifecycle-methods/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-02-spring-core/09-config-bean/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-02-spring-core/springcoredemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-03-hibernate-jpa-crud/01-cruddemo-student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/01-spring-boot-rest-crud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/02-spring-boot-rest-crud-students-list-base/src/main/java" charset="UTF-8" />
   </component>
 </project>
