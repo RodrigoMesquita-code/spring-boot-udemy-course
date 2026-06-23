@@ -18,5 +18,19 @@
     <file url="file://$PROJECT_DIR$/section-03-hibernate-jpa-crud/01-cruddemo-student/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/01-spring-boot-rest-crud/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/02-spring-boot-rest-crud-students-list-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/03-spring-boot-rest-crud-students-list-refactored/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/04-spring-boot-rest-crud-students-path-variable-get-single-student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/05-spring-boot-rest-crud-students-exception-handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/06-spring-boot-rest-crud-students-global-exception-handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/07-spring-boot-rest-crud-employee-list-employees/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/20-spring-boot-rest-crud-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/21-spring-boot-rest-crud-employee-refactored-service-layer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/22-spring-boot-rest-crud-employee-dao-find-add-update-delete/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/23-spring-boot-rest-crud-employee-service-find-add-update-delete/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/24-spring-boot-rest-crud-employee-rest-controller-get-single-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/25-spring-boot-rest-crud-employee-rest-controller-add-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/26-spring-boot-rest-crud-employee-rest-controller-update-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/27-spring-boot-rest-crud-employee-rest-controller-patch-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/28-spring-boot-rest-crud-employee-rest-controller-patch-employee/src/main/java" charset="UTF-8" />
   </component>
 </project>
