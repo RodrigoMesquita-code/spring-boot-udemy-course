@@ -9,8 +9,10 @@
         <module name="cruddemo (1) (com.luv2code.springboot)" />
         <module name="mycoolapp (2)" />
         <module name="cruddemo (6) (com.luv2code.springboot)" />
+        <module name="cruddemo (18) (com.luv2code.springboot)" />
         <module name="demo (5)" />
         <module name="cruddemo (5) (com.luv2code.springboot)" />
+        <module name="cruddemo (12) (com.luv2code.springboot)" />
         <module name="demo" />
         <module name="springcoredemo (8)" />
         <module name="cruddemo" />
@@ -21,20 +23,33 @@
         <module name="springcoredemo (2)" />
         <module name="demo (4)" />
         <module name="cruddemo (4) (com.luv2code.springboot)" />
+        <module name="cruddemo (11) (com.luv2code.springboot)" />
+        <module name="cruddemo (15) (com.luv2code.springboot)" />
         <module name="mycoolapp" />
         <module name="cruddemo (8) (com.luv2code.springboot)" />
         <module name="mycoolapp (3)" />
         <module name="mycoolapp (1)" />
         <module name="cruddemo (3) (com.luv2code.springboot)" />
         <module name="demo (6)" />
+        <module name="cruddemo (10) (com.luv2code.springboot)" />
         <module name="springcoredemo" />
+        <module name="cruddemo (16) (com.luv2code.springboot)" />
         <module name="springcoredemo (7)" />
+        <module name="cruddemo (9) (com.luv2code.springboot)" />
         <module name="springcoredemo (5)" />
         <module name="springcoredemo (3)" />
         <module name="demo (1)" />
         <module name="cruddemo (2) (com.luv2code.springboot)" />
         <module name="springcoredemo (1)" />
         <module name="demo (3)" />
+        <module name="cruddemo (13) (com.luv2code.springboot)" />
+        <module name="cruddemo (17) (com.luv2code.springboot)" />
+      </profile>
+      <profile name="Annotation profile for cruddemo" enabled="true">
+        <sourceOutputDir name="../00-spring-boot-rest-security-employee-starter-code/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../00-spring-boot-rest-security-employee-starter-code/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cruddemo (14) (com.luv2code.springboot)" />
       </profile>
     </annotationProcessing>
   </component>
@@ -42,6 +57,15 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cruddemo" options="-parameters" />
       <module name="cruddemo (1) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (10) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (11) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (12) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (13) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (14) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (15) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (16) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (17) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (18) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (2) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (3) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (4) (com.luv2code.springboot)" options="-parameters" />
@@ -49,6 +73,7 @@
       <module name="cruddemo (6) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (7) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (8) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (9) (com.luv2code.springboot)" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="demo (1)" options="-parameters" />
       <module name="demo (2)" options="-parameters" />

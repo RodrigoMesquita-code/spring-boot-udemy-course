@@ -32,5 +32,16 @@
     <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/26-spring-boot-rest-crud-employee-rest-controller-update-employee/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/27-spring-boot-rest-crud-employee-rest-controller-patch-employee/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/28-spring-boot-rest-crud-employee-rest-controller-patch-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/29-spring-boot-rest-crud-employee-with-spring-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/30-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/31-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-04-rest-crud-apis/50-openapi-swagger-starter-projects-spring-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-05-rest-api-security/00-spring-boot-rest-security-employee-starter-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-05-rest-api-security/01-spring-boot-rest-security-default-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-05-rest-api-security/02-spring-boot-rest-security-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-05-rest-api-security/03-spring-boot-rest-security-restrict-access-based-on-roles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-05-rest-api-security/04-spring-boot-rest-security-restrict-access-based-on-roles-patch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-05-rest-api-security/05-spring-boot-rest-security-jdbc-plain-text/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-05-rest-api-security/06-spring-boot-rest-security-jdbc-bcrypt/src/main/java" charset="UTF-8" />
   </component>
 </project>
