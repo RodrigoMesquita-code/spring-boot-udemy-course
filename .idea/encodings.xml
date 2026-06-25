@@ -43,5 +43,19 @@
     <file url="file://$PROJECT_DIR$/section-05-rest-api-security/04-spring-boot-rest-security-restrict-access-based-on-roles-patch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-05-rest-api-security/05-spring-boot-rest-security-jdbc-plain-text/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-05-rest-api-security/06-spring-boot-rest-security-jdbc-bcrypt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-05-rest-api-security/07-spring-boot-rest-security-jdbc-bcrypt-custom-table-names/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/01-thymeleafdemo-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/02-thymeleafdemo-helloworld-css/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/03-reading-html-form-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/04-adding-data-to-the-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/05-binding-request-params/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/06-getmapping-and-postmapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/07-form-data-binding-textfields/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/08-form-data-binding-dropdown-list-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/09-form-data-binding-dropdown-list-read-from-props-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/10-form-data-binding-radio-buttons-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/11-form-data-binding-radio-buttons-read-from-props-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/12-form-data-binding-checkboxes-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/13-form-data-binding-checkboxes-read-from-props-file/src/main/java" charset="UTF-8" />
   </component>
 </project>
