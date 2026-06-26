@@ -57,5 +57,16 @@
     <file url="file://$PROJECT_DIR$/section-06-spring-mvc/11-form-data-binding-radio-buttons-read-from-props-file/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-06-spring-mvc/12-form-data-binding-checkboxes-basic/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section-06-spring-mvc/13-form-data-binding-checkboxes-read-from-props-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/14-validationdemo-required-fields/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/15-validationdemo-init-binder-trim/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/16-validationdemo-number-ranges/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/17-validationdemo-regular-expressions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/18-validationdemo-make-integer-fields-required/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/19-validationdemo-handle-strings-for-integer-fields/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-06-spring-mvc/20-validationdemo-custom-validation-rule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-07-spring-mvc-crud/01-thymeleaf-demo-employees-list/00-spring-boot-spring-mvc-crud-starter-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-07-spring-mvc-crud/02-thymeleaf-demo-employees-add/00-spring-boot-spring-mvc-crud-starter-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-07-spring-mvc-crud/03-01-thymeleaf-demo-employees-update/00-spring-boot-spring-mvc-crud-starter-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section-07-spring-mvc-crud/04-thymeleaf-demo-employees-delete/00-spring-boot-spring-mvc-crud-starter-code/src/main/java" charset="UTF-8" />
   </component>
 </project>
