@@ -70,6 +70,14 @@
         <option value="$PROJECT_DIR$/section-07-spring-mvc-crud/02-thymeleaf-demo-employees-add/00-spring-boot-spring-mvc-crud-starter-code/pom.xml" />
         <option value="$PROJECT_DIR$/section-07-spring-mvc-crud/03-01-thymeleaf-demo-employees-update/00-spring-boot-spring-mvc-crud-starter-code/pom.xml" />
         <option value="$PROJECT_DIR$/section-07-spring-mvc-crud/04-thymeleaf-demo-employees-delete/00-spring-boot-spring-mvc-crud-starter-code/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/01-spring-boot-spring-mvc-security-default/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/02-spring-boot-spring-mvc-security-in-memory-users/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/03-spring-boot-spring-mvc-security-custom-login-form-plain/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/04-spring-boot-spring-mvc-security-custom-login-form-show-error-message/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/05-spring-boot-spring-mvc-security-custom-login-form-with-bootstrap/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/06-spring-boot-spring-mvc-security-logout/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/07-spring-boot-spring-mvc-security-display-user-name-and-roles/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/08-spring-boot-spring-mvc-security-user-roles-restrict-access/pom.xml" />
       </list>
     </option>
   </component>
