@@ -28,5 +28,13 @@
     <file url="file://$PROJECT_DIR$/section-07-spring-mvc-crud/02-thymeleaf-demo-employees-add/00-spring-boot-spring-mvc-crud-starter-code/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/section-07-spring-mvc-crud/03-01-thymeleaf-demo-employees-update/00-spring-boot-spring-mvc-crud-starter-code/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/section-07-spring-mvc-crud/04-thymeleaf-demo-employees-delete/00-spring-boot-spring-mvc-crud-starter-code/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/section-08-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/section-08-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/section-08-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/section-08-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/section-08-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/section-08-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/section-08-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/section-08-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/sql-scripts/employee-directory.sql" dialect="GenericSQL" />
   </component>
 </project>

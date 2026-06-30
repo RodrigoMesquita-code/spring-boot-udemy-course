@@ -14,6 +14,7 @@
         <module name="cruddemo (18) (com.luv2code.springboot)" />
         <module name="demo (5)" />
         <module name="cruddemo (5) (com.luv2code.springboot)" />
+        <module name="cruddemo (1)" />
         <module name="cruddemo (23) (com.luv2code.springboot)" />
         <module name="thymeleafdemo" />
         <module name="springcoredemo (6)" />
@@ -36,6 +37,7 @@
         <module name="cruddemo (14) (com.luv2code.springboot)" />
         <module name="springcoredemo (7)" />
         <module name="thymeleafdemo (7)" />
+        <module name="demosecurity (12)" />
         <module name="springcoredemo (3)" />
         <module name="cruddemo (2) (com.luv2code.springboot)" />
         <module name="demo (3)" />
@@ -46,6 +48,7 @@
         <module name="cruddemo (17) (com.luv2code.springboot)" />
         <module name="thymeleafdemo (11)" />
         <module name="cruddemo (1) (com.luv2code.springboot)" />
+        <module name="demosecurity (8)" />
         <module name="cruddemo (12) (com.luv2code.springboot)" />
         <module name="demo" />
         <module name="springcoredemo (8)" />
@@ -54,6 +57,7 @@
         <module name="springcoredemo (4)" />
         <module name="demo (2)" />
         <module name="validationdemo (3)" />
+        <module name="demosecurity (11)" />
         <module name="thymeleafdemo (8)" />
         <module name="cruddemo (11) (com.luv2code.springboot)" />
         <module name="cruddemo (15) (com.luv2code.springboot)" />
@@ -63,6 +67,7 @@
         <module name="demosecurity (5)" />
         <module name="mycoolapp (1)" />
         <module name="cruddemo (3) (com.luv2code.springboot)" />
+        <module name="demosecurity (9)" />
         <module name="demo (6)" />
         <module name="cruddemo (10) (com.luv2code.springboot)" />
         <module name="cruddemo (21) (com.luv2code.springboot)" />
@@ -73,6 +78,7 @@
         <module name="demo (1)" />
         <module name="thymeleafdemo (1)" />
         <module name="validationdemo (2)" />
+        <module name="demosecurity (10)" />
         <module name="springcoredemo (1)" />
         <module name="validationdemo (6)" />
         <module name="thymeleafdemo (9)" />
@@ -84,6 +90,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cruddemo" options="-parameters" />
+      <module name="cruddemo (1)" options="-parameters" />
       <module name="cruddemo (1) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (10) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (11) (com.luv2code.springboot)" options="-parameters" />
@@ -116,12 +123,17 @@
       <module name="demo (6)" options="-parameters" />
       <module name="demosecurity" options="-parameters" />
       <module name="demosecurity (1)" options="-parameters" />
+      <module name="demosecurity (10)" options="-parameters" />
+      <module name="demosecurity (11)" options="-parameters" />
+      <module name="demosecurity (12)" options="-parameters" />
       <module name="demosecurity (2)" options="-parameters" />
       <module name="demosecurity (3)" options="-parameters" />
       <module name="demosecurity (4)" options="-parameters" />
       <module name="demosecurity (5)" options="-parameters" />
       <module name="demosecurity (6)" options="-parameters" />
       <module name="demosecurity (7)" options="-parameters" />
+      <module name="demosecurity (8)" options="-parameters" />
+      <module name="demosecurity (9)" options="-parameters" />
       <module name="mycoolapp" options="-parameters" />
       <module name="mycoolapp (1)" options="-parameters" />
       <module name="mycoolapp (2)" options="-parameters" />

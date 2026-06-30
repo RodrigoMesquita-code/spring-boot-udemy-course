@@ -78,6 +78,12 @@
         <option value="$PROJECT_DIR$/section-08-spring-mvc-security/06-spring-boot-spring-mvc-security-logout/pom.xml" />
         <option value="$PROJECT_DIR$/section-08-spring-mvc-security/07-spring-boot-spring-mvc-security-display-user-name-and-roles/pom.xml" />
         <option value="$PROJECT_DIR$/section-08-spring-mvc-security/08-spring-boot-spring-mvc-security-user-roles-restrict-access/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/09-spring-boot-spring-mvc-security-custom-access-denied-page/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/10-spring-boot-spring-mvc-security-display-content-based-on-user-roles/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/11-spring-boot-spring-mvc-security-jdbc-plain-text/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/pom.xml" />
+        <option value="$PROJECT_DIR$/section-08-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/01-jpa-one-to-one-uni-create-instructor/pom.xml" />
       </list>
     </option>
   </component>
