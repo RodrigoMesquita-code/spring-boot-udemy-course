@@ -14,9 +14,11 @@
         <module name="cruddemo (18) (com.luv2code.springboot)" />
         <module name="demo (5)" />
         <module name="cruddemo (5) (com.luv2code.springboot)" />
+        <module name="cruddemo (14)" />
         <module name="cruddemo (1)" />
         <module name="cruddemo (23) (com.luv2code.springboot)" />
         <module name="thymeleafdemo" />
+        <module name="cruddemo (6)" />
         <module name="springcoredemo (6)" />
         <module name="thymeleafdemo (6)" />
         <module name="validationdemo (1)" />
@@ -33,31 +35,41 @@
         <module name="cruddemo (8) (com.luv2code.springboot)" />
         <module name="mycoolapp (3)" />
         <module name="demosecurity (7)" />
+        <module name="cruddemo (15)" />
         <module name="springcoredemo" />
+        <module name="cruddemo (2)" />
         <module name="cruddemo (14) (com.luv2code.springboot)" />
         <module name="springcoredemo (7)" />
+        <module name="cruddemo (3)" />
         <module name="thymeleafdemo (7)" />
         <module name="demosecurity (12)" />
         <module name="springcoredemo (3)" />
         <module name="cruddemo (2) (com.luv2code.springboot)" />
+        <module name="cruddemo (7)" />
         <module name="demo (3)" />
         <module name="thymeleafdemo (3)" />
         <module name="validationdemo (4)" />
+        <module name="cruddemo (10)" />
         <module name="cruddemo (20) (com.luv2code.springboot)" />
         <module name="demosecurity (2)" />
         <module name="cruddemo (17) (com.luv2code.springboot)" />
         <module name="thymeleafdemo (11)" />
         <module name="cruddemo (1) (com.luv2code.springboot)" />
         <module name="demosecurity (8)" />
+        <module name="cruddemo (12)" />
         <module name="cruddemo (12) (com.luv2code.springboot)" />
         <module name="demo" />
+        <module name="cruddemo (16)" />
         <module name="springcoredemo (8)" />
         <module name="cruddemo" />
         <module name="thymeleafdemo (4)" />
+        <module name="cruddemo (4)" />
         <module name="springcoredemo (4)" />
         <module name="demo (2)" />
         <module name="validationdemo (3)" />
+        <module name="cruddemo (11)" />
         <module name="demosecurity (11)" />
+        <module name="cruddemo (8)" />
         <module name="thymeleafdemo (8)" />
         <module name="cruddemo (11) (com.luv2code.springboot)" />
         <module name="cruddemo (15) (com.luv2code.springboot)" />
@@ -70,11 +82,14 @@
         <module name="demosecurity (9)" />
         <module name="demo (6)" />
         <module name="cruddemo (10) (com.luv2code.springboot)" />
+        <module name="cruddemo (13)" />
         <module name="cruddemo (21) (com.luv2code.springboot)" />
         <module name="cruddemo (16) (com.luv2code.springboot)" />
+        <module name="cruddemo (5)" />
         <module name="cruddemo (9) (com.luv2code.springboot)" />
         <module name="thymeleafdemo (5)" />
         <module name="springcoredemo (5)" />
+        <module name="cruddemo (9)" />
         <module name="demo (1)" />
         <module name="thymeleafdemo (1)" />
         <module name="validationdemo (2)" />
@@ -92,27 +107,42 @@
       <module name="cruddemo" options="-parameters" />
       <module name="cruddemo (1)" options="-parameters" />
       <module name="cruddemo (1) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (10)" options="-parameters" />
       <module name="cruddemo (10) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (11)" options="-parameters" />
       <module name="cruddemo (11) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (12)" options="-parameters" />
       <module name="cruddemo (12) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (13)" options="-parameters" />
       <module name="cruddemo (13) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (14)" options="-parameters" />
       <module name="cruddemo (14) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (15)" options="-parameters" />
       <module name="cruddemo (15) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (16)" options="-parameters" />
       <module name="cruddemo (16) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (17) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (18) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (19) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (2)" options="-parameters" />
       <module name="cruddemo (2) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (20) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (21) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (22) (com.luv2code.springboot)" options="-parameters" />
       <module name="cruddemo (23) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (3)" options="-parameters" />
       <module name="cruddemo (3) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (4)" options="-parameters" />
       <module name="cruddemo (4) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (5)" options="-parameters" />
       <module name="cruddemo (5) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (6)" options="-parameters" />
       <module name="cruddemo (6) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (7)" options="-parameters" />
       <module name="cruddemo (7) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (8)" options="-parameters" />
       <module name="cruddemo (8) (com.luv2code.springboot)" options="-parameters" />
+      <module name="cruddemo (9)" options="-parameters" />
       <module name="cruddemo (9) (com.luv2code.springboot)" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="demo (1)" options="-parameters" />

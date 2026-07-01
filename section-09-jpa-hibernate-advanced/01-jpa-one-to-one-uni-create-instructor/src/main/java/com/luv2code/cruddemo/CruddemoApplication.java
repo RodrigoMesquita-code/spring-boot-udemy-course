@@ -24,19 +24,19 @@ public class CruddemoApplication {
 	}
 
 	private void createInstructor(AppDAO appDAO) {
-		/*
+
 		// create the instructor
 		Instructor tempInstructor = new Instructor("Chad", "Darby", "darby@luv2code.com");
 
 		// create the Intructor detail
 		InstructorDetail tempInstructorDetail = new InstructorDetail("http://www.luv2code.com/youtube","Luv2code!!");
-		*/
+
 
 		// create the instructor
-		Instructor tempInstructor = new Instructor("Madhu", "Patel", "mahdu@luv2code.com");
+		// Instructor tempInstructor = new Instructor("Madhu", "Patel", "mahdu@luv2code.com");
 
 		// create the Intructor detail
-		InstructorDetail tempInstructorDetail = new InstructorDetail("http://www.luv2code.com/youtube","Guitar");
+		// InstructorDetail tempInstructorDetail = new InstructorDetail("http://www.luv2code.com/youtube","Guitar");
 
 
 		// associate the objects

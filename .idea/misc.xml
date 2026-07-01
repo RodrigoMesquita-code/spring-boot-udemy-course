@@ -84,6 +84,21 @@
         <option value="$PROJECT_DIR$/section-08-spring-mvc-security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/pom.xml" />
         <option value="$PROJECT_DIR$/section-08-spring-mvc-security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/pom.xml" />
         <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/01-jpa-one-to-one-uni-create-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/02-jpa-one-to-one-uni-find-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/03-jpa-one-to-one-uni-delete-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/04-jpa-one-to-one-bi-find-instructor-detail/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/05-jpa-one-to-one-bi-delete-instructor-detail-and-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/06-jpa-one-to-one-bi-delete-instructor-detail-only/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/07-jpa-one-to-many-create-instructor-with-courses/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/08-jpa-one-to-many-eager-find-instructor-with-courses/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/09-jpa-one-to-many-lazy-find-courses-for-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/10-jpa-one-to-many-lazy-find-instructor-with-courses-join-fetch/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/11-jpa-one-to-many-update-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/12-jpa-one-to-many-update-course/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/13-jpa-one-to-many-delete-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/14-jpa-one-to-many-delete-course/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/15-jpa-one-to-many-uni-create-course-and-reviews/pom.xml" />
+        <option value="$PROJECT_DIR$/section-09-jpa-hibernate-advanced/16-jpa-one-to-many-uni-retrieve-course-and-reviews/pom.xml" />
       </list>
     </option>
   </component>
